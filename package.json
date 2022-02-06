@@ -1,0 +1,28 @@
+{
+  "name": "platformer",
+  "version": "0.1.0-alpha",
+  "description": "All the due physics for creating a platformer, in one library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantum9Innovation/platformer.js.git"
+  },
+  "keywords": [
+    "game",
+    "physics",
+    "platformer",
+    "physics-engine"
+  ],
+  "author": "quantum9innovation (q9i)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/quantum9Innovation/platformer.js/issues"
+  },
+  "homepage": "https://github.com/quantum9Innovation/platformer.js#readme",
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  }
+}
